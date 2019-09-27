@@ -1,1 +1,3 @@
 Hello man!
+
+Adding another line to check how git reacts.
